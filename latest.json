@@ -2,7 +2,7 @@
     "schema_version":  1,
     "version":  "0.4.1",
     "installer_url":  "https://github.com/RodeProjects/sacrificial-tower-updates/releases/download/v0.4.1/SacrificialTowerSetup-0.4.1.exe",
-    "sha256":  "2cfd899ecb8f8a3af5fbdd1fea1d097f74036105336747c8fdd56db665b9709b",
-    "size_bytes":  43249011,
+    "sha256":  "6d3c8a6a4ba4aeae8cb9cd8a12bbfe3eda4d5654905e6d8333bc1abfd847c05e",
+    "size_bytes":  43297849,
     "release_notes":  "Erster Windows-Installer mit automatischem Update-Kanal."
 }
