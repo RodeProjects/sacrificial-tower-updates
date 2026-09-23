@@ -1,11 +1,11 @@
 {
-  "installer_url": "https://github.com/RodeProjects/sacrificial-tower-updates/releases/download/v0.6.16/SacrificialTowerSetup-0.6.16.exe",
-  "release_notes": "Sacrificial Tower 0.6.16 – Entwicklungsversion für Tests und Evaluation",
+  "installer_url": "https://github.com/RodeProjects/sacrificial-tower-updates/releases/download/v0.6.19/SacrificialTowerSetup-0.6.19.exe",
+  "release_notes": "Sacrificial Tower 0.6.19 – Entwicklungsversion für Tests und Evaluation",
   "schema_version": 1,
-  "sha256": "07285caf5d636a20e898d622d2bfab08409a7b0998248c87ecb8b9681d1eea0d",
-  "signature": "MmBm8LRmVN+tqcGuPdz7aYwtN46hvqoOU2xJeSAVsL9EHa+IqIsiRuSjab74WrcAvr2ZnENlJx5sgAhCnRj+AA==",
+  "sha256": "b3eb34aaed01da8b6deb3cbeace33a66c34ad9f1aaad30c65dcac804077693ce",
+  "signature": "OdTjVBTojPdI7RfjAMvy3kjluoi19Mq+NZGdPwD3BeAPU4oUdnbR1jUAh8NiYLtkFhc5bgGKVoaREfyxQezOBA==",
   "signature_algorithm": "Ed25519",
   "signing_key_id": "2026-07-primary",
-  "size_bytes": 106527209,
-  "version": "0.6.16"
+  "size_bytes": 106547007,
+  "version": "0.6.19"
 }
